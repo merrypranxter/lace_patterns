@@ -1,0 +1,24 @@
+{
+  "repo": "lace_patterns",
+  "version": "expansion_pack_01",
+  "core_definition": "Lace is openwork textile architecture made from thread and void.",
+  "primary_axes": [
+    "method",
+    "ground",
+    "motif",
+    "edge",
+    "material",
+    "scale",
+    "density",
+    "use"
+  ],
+  "families_count": 41,
+  "motif_count": 22,
+  "shader_model": {
+    "thread": "opaque mask / raised surface",
+    "void": "transparent alpha",
+    "shadow": "offset blurred alpha",
+    "normal": "derived from mask gradient",
+    "motifs": "SDF curves, loops, radial repeats, graph edges"
+  }
+}

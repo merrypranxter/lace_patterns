@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Guipure Lace Field</title>
+  <style>
+    body { margin:0; background:#111; color:white; font-family:system-ui,sans-serif; }
+    canvas { display:block; margin:auto; background:#181818; }
+    .note { position:fixed; left:12px; top:10px; opacity:.8; font-size:13px; }
+  </style>
+</head>
+<body>
+<div class="note">Guipure Lace Field — press S to save</div>
+<script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.min.js"></script>
+<script>
+
+function setup(){ createCanvas(1000,1000); noLoop(); }
+function petal(x,y,r,a){
+  push(); translate(x,y); rotate(a);
+  beginShape();
+  for(let t=0;t<TWO_PI;t+=0.05){
+    let rr=r*(0.55+0.45*cos(t));
+    vertex(cos(t)*rr*0.7, sin(t)*rr*1.35);
+  }
+  endShape(CLOSE);
+  pop();
+}
+function draw(){
+  background(12);
+  stroke(245); fill(12); strokeWeight(3);
+  let step=135;
+  for(let y=80;y<height;y+=step){
+    for(let x=80;x<width;x+=step){
+      let ox=x+random(-10,10), oy=y+random(-10,10);
+      line(ox-step/2,oy,ox+step/2,oy);
+      line(ox,oy-step/2,ox,oy+step/2);
+      for(let i=0;i<6;i++) petal(ox,oy,34,TWO_PI*i/6);
+      ellipse(ox,oy,24,24);
+    }
+  }
+}
+function keyPressed(){ if(key==='s'||key==='S') saveCanvas('guipure_lace_field','png'); }
+
+</script>
+</body>
+</html>

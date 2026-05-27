@@ -1,0 +1,112 @@
+[
+  {
+    "id": "floral_sprigs",
+    "name": "Floral Sprigs",
+    "description": "small independent flower units used as scattered or joined motifs"
+  },
+  {
+    "id": "roses",
+    "name": "Roses",
+    "description": "rounded floral motifs with spiral centers, layered petals, and corded outlines"
+  },
+  {
+    "id": "leaves_and_vines",
+    "name": "Leaves And Vines",
+    "description": "botanical stems, paired leaves, curling vines, tendrils, and organic branching"
+  },
+  {
+    "id": "scrollwork",
+    "name": "Scrollwork",
+    "description": "curling ornamental lines that behave like thread filigree"
+  },
+  {
+    "id": "medallions",
+    "name": "Medallions",
+    "description": "centralized circular or oval motifs used as focal units"
+  },
+  {
+    "id": "diamonds_and_lattices",
+    "name": "Diamonds And Lattices",
+    "description": "geometric openwork based on diamond cells, grids, and repeated lattice logic"
+  },
+  {
+    "id": "fans_and_shells",
+    "name": "Fans And Shells",
+    "description": "radiating stitch groups forming fan or shell shapes"
+  },
+  {
+    "id": "pineapples",
+    "name": "Pineapples",
+    "description": "teardrop crochet lace motifs made from expanding and contracting chain spaces"
+  },
+  {
+    "id": "spiderwebs",
+    "name": "Spiderwebs",
+    "description": "radial thread structures with open cells and concentric connections"
+  },
+  {
+    "id": "stars_and_rosettes",
+    "name": "Stars And Rosettes",
+    "description": "radial lace motifs with points, rings, and symmetry"
+  },
+  {
+    "id": "scalloped_edges",
+    "name": "Scalloped Edges",
+    "description": "repeated rounded border lobes defining lace edges"
+  },
+  {
+    "id": "picots",
+    "name": "Picots",
+    "description": "tiny loops or knots that decorate borders, bars, rings, and chains"
+  },
+  {
+    "id": "mesh_grounds",
+    "name": "Mesh Grounds",
+    "description": "regular or irregular open net structures supporting motifs"
+  },
+  {
+    "id": "bars_and_brides",
+    "name": "Bars And Brides",
+    "description": "thread bridges connecting motifs in open lace"
+  },
+  {
+    "id": "corded_outlines",
+    "name": "Corded Outlines",
+    "description": "heavier threads used to outline motifs and increase relief"
+  },
+  {
+    "id": "fillings_and_modes",
+    "name": "Fillings And Modes",
+    "description": "decorative stitches used inside motif zones"
+  },
+  {
+    "id": "edgings_and_borders",
+    "name": "Edgings And Borders",
+    "description": "lace systems designed for outer edges"
+  },
+  {
+    "id": "insertions_and_bands",
+    "name": "Insertions And Bands",
+    "description": "linear lace strips meant to be inserted into fabric"
+  },
+  {
+    "id": "appliques",
+    "name": "Appliques",
+    "description": "motif pieces applied to another fabric"
+  },
+  {
+    "id": "allover_repeats",
+    "name": "Allover Repeats",
+    "description": "motif systems that tile continuously across yardage"
+  },
+  {
+    "id": "radial_doily_logic",
+    "name": "Radial Doily Logic",
+    "description": "round-based expansion grammar for doilies and medallions"
+  },
+  {
+    "id": "corner_turns",
+    "name": "Corner Turns",
+    "description": "how lace borders negotiate corners without breaking the pattern"
+  }
+]

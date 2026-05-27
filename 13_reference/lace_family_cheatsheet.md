@@ -1,0 +1,41 @@
+- **Needle lace**: built with needle and thread over a drawn pattern, often using buttonhole stitches, bars, and decorative fillings.
+- **Bobbin lace**: made by twisting and crossing many threads wound on bobbins, producing braided paths and mesh grounds.
+- **Chantilly lace**: fine bobbin lace known for delicate floral motifs, outlined details, and light net grounds.
+- **Alencon lace**: needle lace with corded outlines, floral motifs, and luxurious raised detail.
+- **Guipure lace**: heavy lace with motifs connected by bars or brides instead of net ground.
+- **Venise lace**: dense raised lace, often floral or scroll-like, with ornate heavy motifs and open connectors.
+- **Brussels lace**: fine historical lace with delicate floral motifs and separate motifs often applied to net.
+- **Torchon lace**: bobbin lace with geometric grounds, fans, spiders, diamonds, and practical repeated structure.
+- **Cluny lace**: bobbin lace with bold geometric motifs, wheels, tallies, leaves, and braided texture.
+- **Honiton lace**: English bobbin lace with separately made floral sprigs joined into compositions.
+- **Valenciennes lace**: fine bobbin lace with integrated motif and mesh, soft continuous detail.
+- **Binche lace**: fine bobbin lace with snowflake-like grounds and delicate continuous patterns.
+- **Duchesse lace**: bobbin lace combining floral motifs, open spaces, and decorative fillings.
+- **Reticella**: early needle lace evolved from cutwork, using rigid geometric grids, squares, circles, and radiating forms.
+- **Punto in aria**: needle lace detached from fabric ground, giving freer openwork structure.
+- **Cutwork lace**: fabric openwork made by cutting holes and stitching around the edges.
+- **Drawn-thread lace**: openwork made by removing fabric threads and bundling or stitching remaining threads.
+- **Filet lace**: square net grid with filled and open cells used to make pictorial patterns.
+- **Filet crochet**: crochet grid of open and filled squares, excellent for charts and pixel-like lace motifs.
+- **Crochet lace**: hook-made lace using chains, shells, fans, mesh, picots, clusters, and motifs.
+- **Irish crochet lace**: raised crochet motifs such as roses, leaves, and shamrocks joined by mesh.
+- **Pineapple lace**: crochet lace pattern using expanding shell and chain forms that resemble pineapples or teardrops.
+- **Hairpin lace**: long looped strips made on a fork and joined into airy lace fabric.
+- **Broomstick lace**: large loops lifted onto a rod and grouped into open fanlike clusters.
+- **Knitted lace**: lace made through yarn overs and decreases, often used for shawls and open motifs.
+- **Shetland lace**: very fine knitted lace with traditional motifs, airy shawls, and delicate repeats.
+- **Tatting**: knotted rings and chains with picots, made by shuttle or needle.
+- **Macrame-adjacent lace**: knot-based openwork with heavier cord, useful as a neighboring style.
+- **Raschel lace**: machine-made warp-knit lace with flexible modern repeat structures.
+- **Leavers lace**: machine lace that imitates complex handmade lace with fine detail.
+- **Schiffli lace**: machine embroidery lace made on net or dissolved ground.
+- **Chemical lace**: embroidered lace made on a sacrificial ground that dissolves away.
+- **Embroidered net lace**: net fabric decorated with stitched motifs and outlines.
+- **Broderie anglaise**: whitework cutwork with eyelets, embroidery, and scalloped edges.
+- **Crochet doilies**: radial crochet lace objects with rounds, fans, shells, picots, and medallions.
+- **Lace edgings**: border lace designed for hems, cuffs, collars, trims, and insertions.
+- **Lace insertions**: narrow lace strips inserted between fabric panels.
+- **Allover lace**: continuous lace field used as fabric rather than isolated trim.
+- **Corded lace**: lace with heavier outline thread emphasizing motifs.
+- **Stretch lace**: elastic modern lace used in lingerie and fitted apparel.
+- **Bridal lace**: luxury lace language for veils, gowns, appliques, trains, and heirloom motifs.

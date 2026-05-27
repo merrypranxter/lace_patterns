@@ -1,0 +1,22 @@
+- **Floral Sprigs**: small independent flower units used as scattered or joined motifs.
+- **Roses**: rounded floral motifs with spiral centers, layered petals, and corded outlines.
+- **Leaves And Vines**: botanical stems, paired leaves, curling vines, tendrils, and organic branching.
+- **Scrollwork**: curling ornamental lines that behave like thread filigree.
+- **Medallions**: centralized circular or oval motifs used as focal units.
+- **Diamonds And Lattices**: geometric openwork based on diamond cells, grids, and repeated lattice logic.
+- **Fans And Shells**: radiating stitch groups forming fan or shell shapes.
+- **Pineapples**: teardrop crochet lace motifs made from expanding and contracting chain spaces.
+- **Spiderwebs**: radial thread structures with open cells and concentric connections.
+- **Stars And Rosettes**: radial lace motifs with points, rings, and symmetry.
+- **Scalloped Edges**: repeated rounded border lobes defining lace edges.
+- **Picots**: tiny loops or knots that decorate borders, bars, rings, and chains.
+- **Mesh Grounds**: regular or irregular open net structures supporting motifs.
+- **Bars And Brides**: thread bridges connecting motifs in open lace.
+- **Corded Outlines**: heavier threads used to outline motifs and increase relief.
+- **Fillings And Modes**: decorative stitches used inside motif zones.
+- **Edgings And Borders**: lace systems designed for outer edges.
+- **Insertions And Bands**: linear lace strips meant to be inserted into fabric.
+- **Appliques**: motif pieces applied to another fabric.
+- **Allover Repeats**: motif systems that tile continuously across yardage.
+- **Radial Doily Logic**: round-based expansion grammar for doilies and medallions.
+- **Corner Turns**: how lace borders negotiate corners without breaking the pattern.

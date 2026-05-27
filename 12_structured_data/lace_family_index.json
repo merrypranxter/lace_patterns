@@ -1,0 +1,207 @@
+[
+  {
+    "id": "needle_lace",
+    "name": "Needle lace",
+    "description": "built with needle and thread over a drawn pattern, often using buttonhole stitches, bars, and decorative fillings"
+  },
+  {
+    "id": "bobbin_lace",
+    "name": "Bobbin lace",
+    "description": "made by twisting and crossing many threads wound on bobbins, producing braided paths and mesh grounds"
+  },
+  {
+    "id": "chantilly_lace",
+    "name": "Chantilly lace",
+    "description": "fine bobbin lace known for delicate floral motifs, outlined details, and light net grounds"
+  },
+  {
+    "id": "alencon_lace",
+    "name": "Alencon lace",
+    "description": "needle lace with corded outlines, floral motifs, and luxurious raised detail"
+  },
+  {
+    "id": "guipure_lace",
+    "name": "Guipure lace",
+    "description": "heavy lace with motifs connected by bars or brides instead of net ground"
+  },
+  {
+    "id": "venise_lace",
+    "name": "Venise lace",
+    "description": "dense raised lace, often floral or scroll-like, with ornate heavy motifs and open connectors"
+  },
+  {
+    "id": "brussels_lace",
+    "name": "Brussels lace",
+    "description": "fine historical lace with delicate floral motifs and separate motifs often applied to net"
+  },
+  {
+    "id": "torchon_lace",
+    "name": "Torchon lace",
+    "description": "bobbin lace with geometric grounds, fans, spiders, diamonds, and practical repeated structure"
+  },
+  {
+    "id": "cluny_lace",
+    "name": "Cluny lace",
+    "description": "bobbin lace with bold geometric motifs, wheels, tallies, leaves, and braided texture"
+  },
+  {
+    "id": "honiton_lace",
+    "name": "Honiton lace",
+    "description": "English bobbin lace with separately made floral sprigs joined into compositions"
+  },
+  {
+    "id": "valenciennes_lace",
+    "name": "Valenciennes lace",
+    "description": "fine bobbin lace with integrated motif and mesh, soft continuous detail"
+  },
+  {
+    "id": "binche_lace",
+    "name": "Binche lace",
+    "description": "fine bobbin lace with snowflake-like grounds and delicate continuous patterns"
+  },
+  {
+    "id": "duchesse_lace",
+    "name": "Duchesse lace",
+    "description": "bobbin lace combining floral motifs, open spaces, and decorative fillings"
+  },
+  {
+    "id": "reticella",
+    "name": "Reticella",
+    "description": "early needle lace evolved from cutwork, using rigid geometric grids, squares, circles, and radiating forms"
+  },
+  {
+    "id": "punto_in_aria",
+    "name": "Punto in aria",
+    "description": "needle lace detached from fabric ground, giving freer openwork structure"
+  },
+  {
+    "id": "cutwork_lace",
+    "name": "Cutwork lace",
+    "description": "fabric openwork made by cutting holes and stitching around the edges"
+  },
+  {
+    "id": "drawn_thread_lace",
+    "name": "Drawn-thread lace",
+    "description": "openwork made by removing fabric threads and bundling or stitching remaining threads"
+  },
+  {
+    "id": "filet_lace",
+    "name": "Filet lace",
+    "description": "square net grid with filled and open cells used to make pictorial patterns"
+  },
+  {
+    "id": "filet_crochet",
+    "name": "Filet crochet",
+    "description": "crochet grid of open and filled squares, excellent for charts and pixel-like lace motifs"
+  },
+  {
+    "id": "crochet_lace",
+    "name": "Crochet lace",
+    "description": "hook-made lace using chains, shells, fans, mesh, picots, clusters, and motifs"
+  },
+  {
+    "id": "irish_crochet_lace",
+    "name": "Irish crochet lace",
+    "description": "raised crochet motifs such as roses, leaves, and shamrocks joined by mesh"
+  },
+  {
+    "id": "pineapple_lace",
+    "name": "Pineapple lace",
+    "description": "crochet lace pattern using expanding shell and chain forms that resemble pineapples or teardrops"
+  },
+  {
+    "id": "hairpin_lace",
+    "name": "Hairpin lace",
+    "description": "long looped strips made on a fork and joined into airy lace fabric"
+  },
+  {
+    "id": "broomstick_lace",
+    "name": "Broomstick lace",
+    "description": "large loops lifted onto a rod and grouped into open fanlike clusters"
+  },
+  {
+    "id": "knitted_lace",
+    "name": "Knitted lace",
+    "description": "lace made through yarn overs and decreases, often used for shawls and open motifs"
+  },
+  {
+    "id": "shetland_lace",
+    "name": "Shetland lace",
+    "description": "very fine knitted lace with traditional motifs, airy shawls, and delicate repeats"
+  },
+  {
+    "id": "tatting",
+    "name": "Tatting",
+    "description": "knotted rings and chains with picots, made by shuttle or needle"
+  },
+  {
+    "id": "macrame_lace",
+    "name": "Macrame-adjacent lace",
+    "description": "knot-based openwork with heavier cord, useful as a neighboring style"
+  },
+  {
+    "id": "raschel_lace",
+    "name": "Raschel lace",
+    "description": "machine-made warp-knit lace with flexible modern repeat structures"
+  },
+  {
+    "id": "leavers_lace",
+    "name": "Leavers lace",
+    "description": "machine lace that imitates complex handmade lace with fine detail"
+  },
+  {
+    "id": "schiffli_lace",
+    "name": "Schiffli lace",
+    "description": "machine embroidery lace made on net or dissolved ground"
+  },
+  {
+    "id": "chemical_lace",
+    "name": "Chemical lace",
+    "description": "embroidered lace made on a sacrificial ground that dissolves away"
+  },
+  {
+    "id": "embroidered_net_lace",
+    "name": "Embroidered net lace",
+    "description": "net fabric decorated with stitched motifs and outlines"
+  },
+  {
+    "id": "broderie_anglaise",
+    "name": "Broderie anglaise",
+    "description": "whitework cutwork with eyelets, embroidery, and scalloped edges"
+  },
+  {
+    "id": "crochet_doilies",
+    "name": "Crochet doilies",
+    "description": "radial crochet lace objects with rounds, fans, shells, picots, and medallions"
+  },
+  {
+    "id": "lace_edgings",
+    "name": "Lace edgings",
+    "description": "border lace designed for hems, cuffs, collars, trims, and insertions"
+  },
+  {
+    "id": "lace_insertions",
+    "name": "Lace insertions",
+    "description": "narrow lace strips inserted between fabric panels"
+  },
+  {
+    "id": "allover_lace",
+    "name": "Allover lace",
+    "description": "continuous lace field used as fabric rather than isolated trim"
+  },
+  {
+    "id": "corded_lace",
+    "name": "Corded lace",
+    "description": "lace with heavier outline thread emphasizing motifs"
+  },
+  {
+    "id": "stretch_lace",
+    "name": "Stretch lace",
+    "description": "elastic modern lace used in lingerie and fitted apparel"
+  },
+  {
+    "id": "bridal_lace",
+    "name": "Bridal lace",
+    "description": "luxury lace language for veils, gowns, appliques, trains, and heirloom motifs"
+  }
+]

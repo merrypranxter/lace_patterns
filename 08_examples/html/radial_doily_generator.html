@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Radial Doily Lace Generator</title>
+  <style>
+    body { margin:0; background:#111; color:white; font-family:system-ui,sans-serif; }
+    canvas { display:block; margin:auto; background:#181818; }
+    .note { position:fixed; left:12px; top:10px; opacity:.8; font-size:13px; }
+  </style>
+</head>
+<body>
+<div class="note">Radial Doily Lace Generator — press S to save</div>
+<script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.min.js"></script>
+<script>
+
+let seg = 16;
+function setup(){ createCanvas(900,900); pixelDensity(1); noLoop(); }
+function draw(){
+  background(18);
+  translate(width/2,height/2);
+  stroke(245); noFill(); strokeWeight(2);
+  for(let r=60;r<420;r+=55){ ellipse(0,0,r*2,r*2); }
+  for(let i=0;i<seg;i++){
+    push(); rotate(TWO_PI*i/seg);
+    line(0,40,0,410);
+    for(let r=120;r<390;r+=90){
+      push(); translate(0,r);
+      beginShape();
+      for(let a=-0.9;a<=0.9;a+=0.08){
+        let rr=55*(1-abs(a)*0.25);
+        vertex(Math.sin(a)*rr, Math.cos(a)*rr*0.45);
+      }
+      endShape();
+      pop();
+    }
+    for(let r=435;r<455;r+=18){ ellipse(0,r,18,18); }
+    pop();
+  }
+}
+function keyPressed(){ if(key==='s'||key==='S') saveCanvas('radial_doily_lace','png'); }
+
+</script>
+</body>
+</html>

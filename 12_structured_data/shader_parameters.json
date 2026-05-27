@@ -1,0 +1,47 @@
+{
+  "thread_width": {
+    "min": 0.001,
+    "max": 0.08,
+    "use": "width of thread strokes"
+  },
+  "hole_scale": {
+    "min": 0.01,
+    "max": 0.5,
+    "use": "size of open voids"
+  },
+  "mesh_density": {
+    "min": 2,
+    "max": 200,
+    "use": "cells per unit"
+  },
+  "motif_repeat": {
+    "min": 1,
+    "max": 64,
+    "use": "repeating motif count"
+  },
+  "radial_segments": {
+    "min": 4,
+    "max": 64,
+    "use": "doily or medallion wedge count"
+  },
+  "picot_density": {
+    "min": 0,
+    "max": 100,
+    "use": "edge loop count"
+  },
+  "shadow_offset": {
+    "min": 0,
+    "max": 0.05,
+    "use": "cast shadow displacement"
+  },
+  "irregularity": {
+    "min": 0,
+    "max": 1,
+    "use": "handmade wobble"
+  },
+  "material_sheen": {
+    "min": 0,
+    "max": 1,
+    "use": "silk or nylon specular response"
+  }
+}

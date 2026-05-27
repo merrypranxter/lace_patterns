@@ -1,0 +1,41 @@
+{
+  "base": "specific lace family, visible thread paths, active negative space, transparent holes",
+  "anti_flat": "not printed lace, not wallpaper, real openwork construction",
+  "materials": [
+    "cotton",
+    "linen",
+    "silk",
+    "nylon",
+    "metallic thread",
+    "wool"
+  ],
+  "motifs": [
+    "floral_sprigs.md",
+    "roses.md",
+    "leaves_and_vines.md",
+    "scrollwork.md",
+    "medallions.md",
+    "diamonds_and_lattices.md",
+    "fans_and_shells.md",
+    "pineapples.md",
+    "spiderwebs.md",
+    "stars_and_rosettes.md",
+    "scalloped_edges.md",
+    "picots.md",
+    "mesh_grounds.md",
+    "bars_and_brides.md",
+    "corded_outlines.md",
+    "fillings_and_modes.md",
+    "edgings_and_borders.md",
+    "insertions_and_bands.md",
+    "appliques.md",
+    "allover_repeats.md"
+  ],
+  "lighting": [
+    "backlit",
+    "raking light",
+    "macro shadow",
+    "soft diffuse",
+    "high contrast silhouette"
+  ]
+}
